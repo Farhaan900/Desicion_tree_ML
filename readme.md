@@ -12,7 +12,7 @@ Two data sets are given named car.csv and nursery.csv which can be used in this 
 
 For example, the script can be run as follows 
 ```{r, engine='python', count_lines}
-python decisiontree.py --data car.csv --output yourname.xml
+python decisiontree.py --data car.csv --output yourOutputFileName.xml
 ```
 
 Output will be stored in a csv file mentioned at the end of execution in the form of a xml file
