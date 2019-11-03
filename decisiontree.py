@@ -11,7 +11,7 @@ import getopt
 import math
 
 
-output_data = ""
+output_data = "" # Stores the data in the xml format as a string throughout the program 
 
 
 def read_csv(file_name):
